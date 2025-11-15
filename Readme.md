@@ -10,7 +10,7 @@ Learn how to manage multiple environments (dev, staging, prod) using Terraform w
 
 ```bash
 # Already authenticated!
-git clone <YOUR_REPO_URL>
+git clone https://github.com/oseniabdulhaleem/terraform-workspaces-practice.git
 cd terraform-workspaces-practice
 ```
 
@@ -24,7 +24,7 @@ gcloud config set project YOUR_PROJECT_ID
 
 **Clone the repo:**
 ```bash
-git clone <YOUR_REPO_URL>
+git clone https://github.com/oseniabdulhaleem/terraform-workspaces-practice.git
 cd terraform-workspaces-practice
 ```
 
